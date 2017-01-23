@@ -22,7 +22,15 @@ import org.testng.annotations.AfterSuite;
                                    after class 
                                    test third
                                    after test will exceute after main test method*/
-public class annotations {         // after shuite 
+
+
+// testng is very important feature of selenium
+// java is very good languages
+
+
+public class annotations {
+	
+	// after shuite 
  @Test
   public void test1() {
 	  System.out.println("test first");
